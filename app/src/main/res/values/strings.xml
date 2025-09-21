@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Blockchain Turn-Based Game</string>
+    <string name="welcome_message">ยินดีต้อนรับสู่เกม Turn-Based บน Blockchain</string>
+    <string name="start_game">เริ่มเกม</string>
+    <string name="connect_wallet">เชื่อมต่อ Wallet</string>
+    <string name="player_turn">ตาของผู้เล่น %s</string>
+    <string name="health">พลังชีวิต: %d</string>
+    <string name="attack">โจมตี</string>
+    <string name="defend">ป้องกัน</string>
+    <string name="special_attack">โจมตีพิเศษ</string>
+    <string name="game_over">เกมจบแล้ว</string>
+    <string name="winner">ผู้ชนะ: %s</string>
+    <string name="restart_game">เริ่มเกมใหม่</string>
+    <string name="wallet_address">ที่อยู่ Wallet: %s</string>
+    <string name="balance">ยอดคงเหลือ: %s ETH</string>
+    <string name="transaction_pending">กำลังประมวลผลธุรกรรม...</string>
+    <string name="transaction_success">ธุรกรรมสำเร็จ!</string>
+    <string name="transaction_failed">ธุรกรรมล้มเหลว</string>
+</resources>
